@@ -1,0 +1,180 @@
+#sign_in {
+    background:-webkit-linear-gradient(top,#4387fd,#4683ea);
+    font-size:13px;
+    font-family: arial,sans-serif;
+    color: #fff;
+    display: inline-block;
+    line-height: 28px;
+    padding: 0 12px;
+    border-radius: 2px;
+    white-space: nowrap;
+    border: 1px solid #4285f4;
+    font-weight: bold;
+    outline: none;
+    right: 2.2%;
+    position: absolute;
+    top: 0.2%;
+}
+
+.top_row {
+
+margin-top: 1%;
+}
+
+#about_link {
+    
+position: absolute;
+    
+margin-left: 1%;
+}
+
+#store_link {
+
+position: absolute;
+
+margin-left: 5%;
+}
+
+#gmail_link {
+
+position: absolute;
+
+right: 16%;
+}
+
+#images_link {
+
+position: absolute;
+
+right: 12%;
+}
+
+#many_links{
+    background-image: url("http://ssl.gstatic.com/gb/images/i1_1967ca6a.png");
+    background-size: 528px 68px;
+    background-position: -132px -38px;
+    opacity: .55;
+    position: absolute;
+    right: 8.5%;
+    display: inline-block;
+    outline: none;
+    vertical-align: middle;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    height: 30px;
+    width: 30px;
+    color: #000;
+    cursor: pointer;
+    text-decoration: none;
+    top:0.25%;
+}
+
+.top_links {
+        font-size: 13px;
+        font-family: arial,sans-serif;
+}
+
+.top_right {
+    color: rgba(0,0,0,0.87);
+}
+
+.top_left {
+    color: #000;
+    opacity: 0.75;
+}
+
+#logo {
+    position: absolute;
+    top:28%;
+    left:40%;
+    
+}
+
+
+#search_bar {
+    font: 16px arial,sans-serif;
+    line-height: 34px;
+    position:absolute;
+    top:45%;
+    left: 30%;
+    -webkit-box-sizing: border-box;
+    height: 100%;
+    overflow: hidden;
+    height: 45px;
+    border-color: rgba(77, 144, 254, 0.1);
+    white-space: nowrap;
+    display: block;
+    width: 550px;
+    border-width: 1px;
+}
+
+#voice_searcher {
+    height: 25px;
+    position: absolute;
+    left: 66%;
+    top: 46%;
+}
+
+#search_button {
+    position: absolute;
+    left: 40%;
+    top: 56%;
+}
+
+#feeling_lucky {
+position:absolute;
+left:50%;
+top:56%;
+}
+
+.middle_buttons {
+    height: 35px;
+    width: 130px;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    color: #757575;
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 2px;
+}
+
+#bottom_bar {
+        background: #f2f2f2;
+        border-top: 1px solid #e4e4e4;
+        position:absolute;
+        bottom:0;
+        height:40px;
+        min-width:99%;
+}
+
+.bottom_links {
+    position:absolute;
+    bottom:2%;
+    font-family: arial, sans-serif;
+    font-size: small;
+    color: #666;
+}
+
+#advertising_link {
+    left:2%;
+
+}
+
+#business_link {
+    left: 9%;
+}
+
+#privacy_link {
+    right: 13%;
+}
+
+#terms_link {
+    right: 8%;
+}
+
+#settings_link {
+    right:2%;
+}
